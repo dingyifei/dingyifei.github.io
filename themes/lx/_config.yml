@@ -17,12 +17,12 @@ avatar: images/avatar.jpeg
 
 ###The options below are images information
 # Home cover
-cover: //cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/images/cover.jpeg
+cover: images/cover.jpeg
 # page cover
-postcover: //cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/images/post_cover.jpeg
+postcover: images/post_cover.jpeg
 # the cover of newer or older post
-pre_post: //cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/images/footer-r.jpeg
-nex_post: //cdn.jsdelivr.net/npm/theme-lx@0.3.9/source/images/footer-l.jpeg
+pre_post: images/footer-r.jpeg
+nex_post: images/footer-l.jpeg
 
 # The theme of sidebar
 ##pure color：green,red,blue,bnp(bright neon pink),orange,black,pink,gol-b(golden brown),greenish(greenish blue)
@@ -53,12 +53,12 @@ menu:
 social:
   enable: false
   links:
-  #  GitHub:
-  #    icon: github
-  #    link: https://github.com/yourname
-  #  Email:
-  #    icon: envelope
-  #    link: mailto:your@email.address
+    GitHub:
+      icon: github
+      link: https://github.com/dingyifei
+    Email:
+      icon: envelope
+      link: mailto:yifeiding@protonmail.com
   #  Weibo:
   #    icon: weibo
   #    link: https://weibo.com/yourname
@@ -74,7 +74,7 @@ social:
 #'npm install hexo-generator-searchdb -s'
 local_search:
   enable: false
-  trigger: auto #'auto' or 'manual' 
+  trigger: auto #'auto' or 'manual'
   top_n_per_article: 1
   unescape: false
   preload: false
@@ -122,7 +122,7 @@ font:
     family: Noto Serif SC
 
 
-    
+
 ########### Develop Options ############
 ############# Warning ##################
 ####### Don't edit options below #######
