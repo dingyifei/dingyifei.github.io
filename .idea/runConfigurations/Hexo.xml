@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Hexo" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
     <method v="2">
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="hexo" run_configuration_type="NodeJSConfigurationType" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Run" run_configuration_type="NodeJSConfigurationType" />
     </method>
   </configuration>
 </component>

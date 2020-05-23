@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="NodeJSConfigurationType" application-parameters="s -p 4200" node-parameters="--inspect-brk=9229" path-to-js-file="node_modules/hexo/bin/hexo" working-dir="$PROJECT_DIR$">
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser start="true" url="http://localhost:4200/" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>

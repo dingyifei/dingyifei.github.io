@@ -10,7 +10,7 @@ favicon: favicon.ico
 theme_color: "#58b77a"
 
 # personal information
-personal_des: Hello, World!
+personal_des: It's just another blog I'm working on in English
 
 # avatar
 avatar: images/avatar.jpeg
@@ -28,7 +28,7 @@ nex_post: images/footer-l.jpeg
 ##pure color：green,red,blue,bnp(bright neon pink),orange,black,pink,gol-b(golden brown),greenish(greenish blue)
 ##gradient color：endless-river,crazy-orange,between-clouds,amethyst,steel-man,d2f(dance to forget),park-life,moonlit,fb-messenger,flickr
 ## default: black-grey
-menu_theme: greenish
+menu_theme: black
 
 # menu content
 menu:
@@ -36,12 +36,11 @@ menu:
   pages:  #the page created by yourself
     enable: true
     links:
-      Guestbook: guestbook/
       About: about/
   friends:
     enable: true
     links:
-      Theme-Lx: https://lx.js.org
+      #Theme-Lx: https://lx.js.org
 
 
 # social links
@@ -58,7 +57,7 @@ social:
       link: https://github.com/dingyifei
     Email:
       icon: envelope
-      link: mailto:yifeiding@protonmail.com
+      link: mailto:yifeiding@pm.me
   #  Weibo:
   #    icon: weibo
   #    link: https://weibo.com/yourname
